@@ -1,19 +1,7 @@
 {
   "licenses": [
-    {
-      "key": "A7K9M2P4X8Q1R6TZ",
-      "expires_at": "2026-12-31",
-      "active": true
-    },
-    {
-      "key": "N5V8C3L7B2D9F1YW",
-      "expires_at": "2026-09-30",
-      "active": false
-    },
-    {
-      "key": "H4J1S8E6T9U2K7QP",
-      "expires_at": "2026-07-15",
-      "active": false
-    }
+    { "key": "A7K9-M2P4-X8Q1-R6TZ", "expires_at": "2026-07-08", "active": true },
+    { "key": "N5V8-C3L7-B2D9-F1YW", "expires_at": "2026-07-08", "active": true },
+    { "key": "H4J1-S8E6-T9U2-K7QP", "expires_at": "2026-07-08", "active": true }
   ]
 }
